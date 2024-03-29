@@ -1,0 +1,22 @@
+Version 1.0
+
+	- Initial build
+	- All enemies have 1.75x health
+	- All pikmin have 0.5x attack strength
+	- All enemies, plants, gen objects, Pikmin, and captains have stone models
+	- Berries and number pellets have stone models
+	- Title screen has stone models
+	- All enemies are immune to stunning from Purple Pikmin slam
+	- Purple Pikmin slam has 0.5x damage
+	- Gen files edited to remove all instances of Purple Berries
+
+Version 1.1
+
+	- Adjust snagret's health to not stall in Snagret Hole floor 5
+
+Version 1.2
+
+	- Set egg drop rate to never drop Ultra-Bitter Spray drops
+	- Altered challenge mode settings to remove all Ultra-Bitter Spray drops
+	- Added version indicator on title screen
+	- Altered 2-P vs. settings to make sure players start with 0 Ultra-Bitter Spray drops

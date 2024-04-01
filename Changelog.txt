@@ -12,7 +12,7 @@ Version 1.0
 
 Version 1.1
 
-	- Adjust snagret's health to not stall in Snagret Hole floor 5
+	- Adjust snagret's health to not stall in White Flower Garden floor 5
 
 Version 1.2
 

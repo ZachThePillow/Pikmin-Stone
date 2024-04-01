@@ -17,3 +17,5 @@ use the xdelta patch for the version you want to install and load it into "XDelt
 Select "Apply Patch"
 
 And you're done! the patch should take a few minutes to install, then you can play Pikmin Stone!
+
+if you recieve a crash in the first cutscene, go into your Dolphin settings and turn off MMU settings.

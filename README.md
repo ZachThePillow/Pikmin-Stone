@@ -7,7 +7,7 @@ To install:
 
 Select all zip files found in the version folder you downloaded
 Extract all using 7zip
-The output should give you an 800mb .xdelta file
+The output should give you an 800mb .xdelta file (you may need to add the extention .xdelta)
 
 download Delta Patcher from this link: https://www.romhacking.net/utilities/704/
 
